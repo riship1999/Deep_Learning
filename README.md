@@ -1,0 +1,68 @@
+# Deep Learning Assignment
+
+## Overview
+This repository contains the implementation of my deep learning assignment, covering four key tasks utilizing various AI tools for image generation, text processing, full-stack development, and neural network modeling.
+
+## Table of Contents
+- [Task A: Image & Text Generation using DeepSeek](#task-a-image--text-generation-using-deepseek)
+- [Task B: Full-Stack App using Bolt.diy](#task-b-full-stack-app-using-bolt-diy)
+- [Task C: Neural Network Classifier using Cursor](#task-c-neural-network-classifier-using-cursor)
+- [Task D: Full-Stack App using Aider and Roo](#task-d-full-stack-app-using-aider-and-roo)
+- [Video Walkthrough](#video-walkthrough)
+- [Setup Instructions](#setup-instructions)
+
+## Task A: Image & Text Generation using DeepSeek
+- Used **DeepSeek Janus Pro** for text-to-image generation.
+- Provided an interesting image as input and generated meaningful information.
+- Utilized **DeepSeek R1** for text-based conversations and content generation.
+- Outputs and implementation details are available in the **Colab notebook**, which has been checked into GitHub.
+- References:
+  - [Janus Pro Guide](https://www.datacamp.com/blog/janus-pro)
+  - [DeepSeek R1 Guide](https://www.datacamp.com/blog/deepseek-r1)
+
+## Task B: Full-Stack App using Bolt.diy
+- Built a **To-Do List App** with priority sorting.
+- Used **Bolt.diy** for full-stack development.
+- The final application includes features such as task creation, deletion, and priority-based sorting.
+- The complete source code is available in the repository.
+- A demo video walkthrough is included.
+
+## Task C: Neural Network Classifier using Cursor
+- Used **Cursor AI Editor** to generate neural network code for an **MNIST classifier** using Keras.
+- Implemented all relevant supporting metrics, including accuracy, loss visualization, and confusion matrix.
+- The full implementation follows the methodology discussed in class.
+- The process and code walkthrough are available on YouTube.
+
+## Task D: Full-Stack App using Aider and Roo
+- Developed a **Snake Game in Python** using **Aider and Gemini API**.
+- Used **Roo Code** for structuring the application.
+- References:
+  - [Aider Tutorial](https://aider.chat/docs/usage/tutorials.html)
+  - [Aider Examples](https://aider.chat/examples/README.html)
+- The complete source code is included in the repository.
+
+## Video Walkthrough
+Watch the complete video walkthrough of this assignment on YouTube: [YouTube Link Here]
+
+## Setup Instructions
+1. Clone the repository:
+   ```bash
+   git clone [repository_url]
+   cd [repository_folder]
+   ```
+2. Follow setup instructions in respective directories (`Task_A`, `Task_B`, etc.).
+3. For Colab-based work, open the `.ipynb` files and run the cells.
+4. For full-stack apps, install dependencies and run the servers.
+   ```bash
+   npm install  # If applicable
+   python app.py  # If using Flask/Django
+   ```
+5. For neural network training, execute the `mnist_classifier.py` file.
+   ```bash
+   python mnist_classifier.py
+   ```
+6. Check out the YouTube video for a full walkthrough.
+
+---
+
+This project showcases the use of modern AI tools for deep learning tasks, full-stack development, and neural network modeling. Feel free to explore the repository and reach out for any questions!
