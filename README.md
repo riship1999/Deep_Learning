@@ -56,7 +56,7 @@ This repository contains the implementation of my deep learning assignment, cove
 
 
 ## Video Walkthrough
-Watch the complete video walkthrough of this assignment on YouTube: [YouTube Link Here](https://github.com/riship1999/Deep_Learning/blob/main/README.md)
+Watch the complete video walkthrough of this assignment on YouTube: [YouTube Link Here](https://youtu.be/3_z6XRA-vYw)
 
 ## Setup Instructions
 1. Clone the repository:
