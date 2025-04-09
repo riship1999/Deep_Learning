@@ -3,14 +3,6 @@
 ## Overview
 This repository contains the implementation of my deep learning assignment, covering four key tasks utilizing various AI tools for image generation, text processing, full-stack development, and neural network modeling.
 
-## Table of Contents
-- [Task A: Image & Text Generation using DeepSeek](#task-a-image--text-generation-using-deepseek)
-- [Task B: Full-Stack App using Bolt.diy](#task-b-full-stack-app-using-bolt-diy)
-- [Task C: Neural Network Classifier using Cursor](#task-c-neural-network-classifier-using-cursor)
-- [Task D: Full-Stack App using Aider and Roo](#task-d-full-stack-app-using-aider-and-roo)
-- [Video Walkthrough](#video-walkthrough)
-- [Setup Instructions](#setup-instructions)
-
 ## Task A: Image & Text Generation using DeepSeek
 - Used **DeepSeek Janus Pro** for text-to-image generation.
 - Provided an interesting image as input and generated meaningful information.
